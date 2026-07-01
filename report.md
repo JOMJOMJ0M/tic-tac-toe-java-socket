@@ -4,9 +4,9 @@
 
 For this Tic-Tac-Toe socket program, I used a simple text-based protocol between the client and server. Normal moves are sent as two numbers in the format:
 
-~~text
+```text
 row col
-~~
+```
 
 For example:
 
